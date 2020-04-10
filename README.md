@@ -139,3 +139,7 @@ If you find this repo useful in your research, please consider citing the follow
       organization={IEEE},
       doi={10.1109/WACV.2018.00087}
     }
+
+## How to Improve DeepSORT
+DeepSORT algorithm doesnt work great when there are lot of people in the frame which causes Occlusions. Re-ID or ReIdentification is a technique which improves accuracy by accounting for Occlusions
+    
